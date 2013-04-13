@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sqlmap-sharp/SqlmapSession.cs">
+    <Files>
+      <File FileName="sqlmap-sharp/SqlmapSession.cs" Line="32" Column="3" />
+      <File FileName="sqlmap-sharp/SqlmapManager.cs" Line="23" Column="27" />
+      <File FileName="Example/Main.cs" Line="13" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/bperry/Projects/sqlmap-sharp/sqlmap-sharp/sqlmap-sharp/SqlmapSession.cs" line="30" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

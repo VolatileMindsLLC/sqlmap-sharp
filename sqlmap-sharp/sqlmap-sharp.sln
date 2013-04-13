@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlmap-sharp", "sqlmap-sharp\sqlmap-sharp.csproj", "{1F1EF74E-66C5-4CD1-ADF6-5C427274AB60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{313E2AF3-B647-41FD-8697-A123F51096B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F1EF74E-66C5-4CD1-ADF6-5C427274AB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1EF74E-66C5-4CD1-ADF6-5C427274AB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1EF74E-66C5-4CD1-ADF6-5C427274AB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1EF74E-66C5-4CD1-ADF6-5C427274AB60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313E2AF3-B647-41FD-8697-A123F51096B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313E2AF3-B647-41FD-8697-A123F51096B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313E2AF3-B647-41FD-8697-A123F51096B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313E2AF3-B647-41FD-8697-A123F51096B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Example\Example.csproj
+	EndGlobalSection
+EndGlobal
